@@ -22,7 +22,7 @@ accessModel:
   generated: '2026-07-22'
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/infoscout-acquired-by-numerator-in-2017.png
-name: InfoScout (acquired by Numerator in 2017)
+name: InfoScout
 description: 'InfoScout (acquired by Numerator in 2017) is a company surfaced as a portfolio company of
   bain-capital-ventures and added to the API Evangelist network as a stub for enrichment. Sector: commerce.
   This profile is a lead awaiting the enrichment pipeline.'
@@ -44,6 +44,7 @@ tags:
 - Market Research
 - Purchase Data
 - Analytics
+- Acquired
 apis: []
 maintainers:
 - FN: Kin Lane
